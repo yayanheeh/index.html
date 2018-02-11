@@ -63,7 +63,7 @@ html{font-size:10px;-webkit-tap-highlight-color:transparent}
 body{line-height:1.42857143;background-color:#fff}
 button,input,select,textarea{font-family:inherit;font-size:inherit;line-height:inherit}
 a{color:#3a6d99;text-decoration:none}
-a:focus,a:hover{color:#50c25d;text-decoration:underline}
+a:focus,a:hover{color:#40508e;text-decoration:underline}
 a:focus{outline:dotted thin;outline:-webkit-focus-ring-color auto 5px;outline-offset:-2px}
 figure{margin:0}
 img{vertical-align:middle}
@@ -1173,7 +1173,7 @@ input[type=number]::-webkit-inner-spin-button,input[type=number]::-webkit-outer-
 .md-input-has-value .md-input-label{-webkit-transform:scale(.9);transform:scale(.9)}
 .md-input-group-centered,.md-input-group-centered .md-input{text-align:center}
 .md-input-group-centered .md-input-label{transform-origin:center center;-webkit-transform-origin:center center}
-.md_modal_head{color:#fff;background:#50c25d;padding:0 0 28px 26px}
+.md_modal_head{color:#fff;background:#40508e;padding:0 0 28px 26px}
 .md_modal_head_simple{padding-bottom:13px}
 .md_modal_actions_wrap{float:right}
 a.md_modal_action{display:block;float:right;color:#dde8f1;padding:19px 15px 5px;font-weight:700}
@@ -1271,7 +1271,7 @@ a.tg_radio_on:hover i.icon-radio{background-color:#5785aa}
 .img_fullsize_progress_wrap{position:relative}
 .img_fullsize_progress{position:absolute;bottom:0;left:0;width:100%;height:25px;margin:0;background:rgba(0,0,0,.5);border:0;border-radius:0;padding:10px}
 .nano-content{outline:0!important}
-.login_head_bg{background:#50c25d;height:226px}
+.login_head_bg{background:#40508e;height:226px}
 .login_page{margin:-131px auto 90px;max-width:404px}
 .login_head_wrap{height:75px}
 .login_head_logo_link{display:inline-block;line-height:30px;padding:23px 15px 22px}
